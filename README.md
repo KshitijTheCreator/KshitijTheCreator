@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **kshitij.june25@gmail.com**
 
-- ⚡ Favorite Quote **Now I could let these dream killers kill my self esteem Or use my arrogance as the stream to power my dreams**
+- ⚡ Favorite Quote: **Now I could let these dream killers kill my self esteem Or use my arrogance as the stream to power my dreams**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kshitij pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kshitij pandey" height="30" width="40" /></a>
