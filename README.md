@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kshitij pandey" target="blank"><img src="https://img.shields.io/twitter/follow/kshitij pandey?logo=twitter&style=for-the-badge" alt="kshitij pandey" /></a> </p>
 
-- 🌱 I’m currently learning **Android Jetpack Compose**
+- 🌱 I’m currently learning **Android Architecture, Recycler View**
 
 - 👯 I’m looking to collaborate on **Android Development**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **kshitij.june25@gmail.com**
 
-- ⚡ Fun fact **I am Champion**
+- ⚡ Favorite Quote **Now I could let these dream killers kill my self esteem Or use my arrogance as the stream to power my dreams, **
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kshitij pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kshitij pandey" height="30" width="40" /></a>
