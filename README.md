@@ -1,13 +1,13 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Kshitij Pandey</h1>
-<h3 align="center">A passionate Android developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KshitijTheCreator&label=Profile%20views&color=0e75b6&style=flat" alt="KshitijTheCreator" /> </p>
 
 <p align="left"> <a href="https://twitter.com/kshitij pandey" target="blank"><img src="https://img.shields.io/twitter/follow/kshitij pandey?logo=twitter&style=for-the-badge" alt="kshitij pandey" /></a> </p>
 
-- 🌱 I’m currently learning **Android Architecture, Recycler View, Data Structures and Algorithm**
+- 🌱 I’m currently learning **Spring Framework, Core Java, Data Structures and Algorithm**
 
 - 👯 I’m looking to collaborate on **Android Development**
 
@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **kshitij.june25@gmail.com**
 
-- ⚡ Favorite Quote: **Now I could let these dream killers kill my self esteem or use my arrogance as the stream to power my dreams**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kshitij pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kshitij pandey" height="30" width="40" /></a>
