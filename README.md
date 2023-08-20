@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Spring Framework, Core Java, Data Structures and Algorithm**
 
-- 👯 I’m looking to collaborate on **Android Development**
+- 👯 I’m looking to collaborate on **JAVA Backend**
 
 - 💬 Ask me about **Kotlin, Java,**
 
